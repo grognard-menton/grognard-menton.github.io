@@ -5,26 +5,6 @@ permalink: /calendrier/
 noindex: 1
 ---
 
-<div id="activities">
-  <div class="infobox">
-    <h2>Cours</h2>
-      <p>
-There is no chin behind Chuck Norris' beard. There is only another fist Chuck Norris does not get frostbite. Chuck Norris bites frost, If you ask Chuck Norris what time it is, he always says, "Two seconds 'til." After you ask, "Two seconds 'til what?" he roundhouse kicks you in the face. Chuck Norris originally appeared in the "Street Fighter II" video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked bout this "glitch," Norris replied, "That's no glitch." Chuck Norris doesn't wash his clothes, he disembowels them, Chuck Norris drives an ice cream truck covered in human skulls Chuck Norris doesn't wear a watch. HE decides what time it is. 
-      </p>
-  </div>
-  <div class="infobox">
-    <h2>Traduction</h2>
-      <p>
-Chuck Norris does not get frostbite. Chuck Norris bites frost, Chuck Norris uses pepper spray to spice up his steaks. Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous. Outer space exists because it's afraid to be on the same planet with Chuck Norris, Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out. The leading causes of death in the United States are: 1. Heart Disease 2. Chuck Norris 3. Cancer Contrary to popular belief, America is not a democracy, it is a Chucktatorship, Outer space exists because it's afraid to be on the same planet with Chuck Norris. Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous Guns don't kill people. Chuck Norris kills people Someone once videotaped Chuck Norris getting pissed off. It was called Walker: Texas Chain Saw Massacre Police label anyone attacking Chuck Norris as a Code 45-11... a suicide, 'The Downward Spiral' is about having a roundhouse kick by Chuck Norris When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably. 
-      </p>
-  </div>
-  <div class="infobox">
-    <h2>Conseil</h2>
-      <p>
-When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down. Chuck Norris doesn't read books. He stares them down until he gets the information he wants. CNN was originally created as the "Chuck Norris Network" to update Americans with on-the-spot ass kicking in real-time Contrary to popular belief, Chuck Norris, not the box jellyfish of northern Australia, is the most venomous creature on earth Contrary to popular belief, Chuck Norris, not the box jellyfish of northern Australia, is the most venomous creature on earth. When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever, It is very important for a grizzly bear to stay still when he sees Chuck Norris, Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia. If you spell Chuck Norris in Scrabble, you win. Forever, The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia Chuck Norris does not sleep. He waits. 
-      </p>
-  </div>
-</div>
 
 <div class="modal" id="modal-reservation">
   <div>
