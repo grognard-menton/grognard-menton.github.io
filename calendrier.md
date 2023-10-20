@@ -110,8 +110,8 @@ noindex: 1
 
 <div id="reservation">
   <div>
-    <h2>Mes prochaines disponibilités</h2>
-    <p>Cliquez sur un créneau disponible afin de réserver.</p>
+    <h2>Nos prochains évènements :</h2>
+    <p>Cliquez sur un évènement pour voir les détails.</p>
     <div id="calendar"></div>
   </div>
 </div>
