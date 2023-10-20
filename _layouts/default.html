@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0">
+    <meta charset="utf-8">
+    <link rel="icon" type="image/x-icon" href="/assets/images/LOGO_08_2022-01.ico">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    {% if page.noindex == "1" %}
+    <meta name="robots" content="noindex">
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+
+  </head>
+  <body>
+    <header>
+	    <a href="/"><h1><span id="name">CLUB DE PEINTURE</span><br/>GROGNARD DE MENTON</h1></a>
+    </header>
+    <nav>
+	    <a href="/"><img id="logo" src="{{ '/assets/images/LOGO_08_2022-01.svg' | relative_url }}"/></a>
+      <ul>
+	      <a href="/"><li {% if page.url == "/" %}class="active"{% endif %}>HOME</li></a>
+	      <a href="/calendrier"><li {% if page.url != "/" %}class="active"{% endif %}>CALENDRIER</li></a>
+	      <a href="/a-propos"><li {% if page.url != "/" %}class="active"{% endif %}>À PROPOS</li></a>
+      </ul>
+    </nav>
+    <div id="content">
+      {{ content}}
+    </div>
+    <footer>
+      <div>Contact : legrognard.menton@gmail.com</div>
+      <div>@GROGNARD DE MENTON</div>
+    </footer>
+  </div>
+  </body>
+</html>

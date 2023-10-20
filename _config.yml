@@ -1,0 +1,7 @@
+title: GROGNARD MENTON
+email: legrognard.menton@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Site web du club de peinture du Grognard de Menton
+domain: grognard-menton.github.io
+baseurl: "/" 
+url: "https://grognard-menton.github.io" 
