@@ -167,7 +167,7 @@ noindex: 1
       businessHours: {
         startTime: minReservationTime,
         endTime: maxReservationTime,
-        daysOfWeeks: [1,2,3,4,5]
+        daysOfWeeks: [0,1,2,3,4,5,6]
       },
       buttonText: {
         today: "Aujourd'hui" 
