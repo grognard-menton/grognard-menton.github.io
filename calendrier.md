@@ -154,7 +154,7 @@ noindex: 1
       initialView: 'timeGridWeek',
       titleFormat: { day: 'numeric', month: 'short' },
       locale: 'fr',
-      weekends: false,
+      weekends: true,
       allDaySlot: false,
       slotDuration: durationSlot,
       slotMinTime: minReservationTime,
@@ -167,7 +167,7 @@ noindex: 1
       businessHours: {
         startTime: minReservationTime,
         endTime: maxReservationTime,
-        daysOfWeeks: [0,1,2,3,4,5,6]
+        daysOfWeeks: [1,2,3,4,5]
       },
       buttonText: {
         today: "Aujourd'hui" 
