@@ -1,5 +1,6 @@
 $background-color-01: #00022a;;
 $background-color-02: #ffffff;;
+$background-color-03: #000000;;
 
 body {
   margin: 0;
@@ -231,6 +232,9 @@ footer {
       &:hover {
         cursor: pointer;
       }
+    }
+    .fc-timegrid-slot, .fc-timegrid-slot-label, .fc-scrollgrid-shrink {
+        color:$background-color-03;
     }
     tbody tr {
       height: 60px;
