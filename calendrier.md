@@ -178,6 +178,7 @@ noindex: 1
           title: 'Menton Figurines Show 2023',
           start: '2023-10-28T09:30:00Z',
           end: '2023-10-29T19:30:00Z',
+          backgroundColor: "#d6ae00"
         }
       ],
       height: "auto",
