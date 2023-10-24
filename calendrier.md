@@ -121,10 +121,10 @@ noindex: 1
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" integrity="sha256-5veQuRbWaECuYxwap/IOE/DAwNxgm4ikX7nrgsqYp88=" crossorigin="anonymous">
 
 <script>
-  const minReservationDay = moment().format('YYYY-MM-DD');
-  const maxReservationDay = moment().add(30,'days').format('YYYY-MM-DD'); 
-  const minReservationTime = '08:00';
-  const maxReservationTime = '21:00';
+  const minEventDay = moment().format('YYYY-MM-DD');
+  const maxEventDay = moment().add(30,'days').format('YYYY-MM-DD'); 
+  const minEventTime = '08:00';
+  const maxEventTime = '23:00';
   const durationSlot = '01:00';
   const minReservationDayTime = moment().format('YYYY-MM-DDT08:00');
   const maxReservationDayTime = moment().format('YYYY-MM-DDT21:00');
@@ -157,17 +157,17 @@ noindex: 1
       weekends: true,
       allDaySlot: false,
       slotDuration: durationSlot,
-      slotMinTime: minReservationTime,
-      slotMaxTime: maxReservationTime,
+      slotMinTime: minEventTime,
+      slotMaxTime: maxEventTime,
       firstDay: 1,
       validRange: {
-        start: minReservationDay,
-        end: maxReservationDay
+        start: minEventDay,
+        end: maxEventDay
       },
       businessHours: {
-        startTime: minReservationTime,
-        endTime: maxReservationTime,
-        daysOfWeeks: [1,2,3,4,5]
+        startTime: minEventTime,
+        endTime: maxEventTime,
+        daysOfWeeks: [1,2,3,4,5,6,7]
       },
       buttonText: {
         today: "Aujourd'hui" 
