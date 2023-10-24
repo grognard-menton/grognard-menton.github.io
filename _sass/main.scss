@@ -181,9 +181,6 @@ footer {
     flex: 30 30 0;
   }
   #calendar {
-    [class^="fc-"]{
-      color: $background-color-02;
-    }
 
     h2 {
       font-family: Cormorant, sans-serif;
@@ -207,6 +204,9 @@ footer {
         background-color: $background-color-01;
         box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
       }
+    }
+    .fc-col-header-cell{
+      color: $background-color-02;
     }
     .fc-col-header-cell-cushion {
       padding: 6px 10px;
@@ -232,9 +232,6 @@ footer {
       &:hover {
         cursor: pointer;
       }
-    }
-    .fc-timegrid-slot, .fc-timegrid-slot-label, .fc-scrollgrid-shrink {
-        color:$background-color-03;
     }
     tbody tr {
       height: 60px;
