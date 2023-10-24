@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Home Page
+title: Page d'accueil
 description: >-
   Site web pour le club de peinture le Grognard de Menton
 layout: default

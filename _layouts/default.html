@@ -16,12 +16,12 @@
   <body>
     <header>
 	    <a href="/"><h1><span id="name">CLUB DE PEINTURE</span><br/>LE GROGNARD DE MENTON</h1></a>
-        <a href="/login"><h2>LOGIN</h2></a>
+        <a href="/login"><h2>SE CONNECTER</h2></a>
     </header>
     <nav>
 	    <a href="/"><img id="logo" src="{{ '/assets/images/LOGO_2023-10-24.png' | relative_url }}"/></a>
       <ul>
-	      <a href="/"><li {% if page.url == "/" %}class="active"{% endif %}>HOME</li></a>
+	      <a href="/"><li {% if page.url == "/" %}class="active"{% endif %}>ACCUEIL</li></a>
 	      <a href="/calendrier"><li {% if page.url != "/" %}class="active"{% endif %}>CALENDRIER</li></a>
 	      <a href="/a-propos"><li {% if page.url != "/" %}class="active"{% endif %}>À PROPOS</li></a>
       </ul>
