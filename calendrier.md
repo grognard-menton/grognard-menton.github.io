@@ -172,6 +172,14 @@ noindex: 1
       buttonText: {
         today: "Aujourd'hui" 
       },
+      events: [
+        {
+          id: 'contest_2023',
+          title: 'Menton Figurines Show 2023',
+          start: '2023-10-28T09:30:00Z',
+          end: '2023-10-29T19:30:00Z',
+        }
+      ],
       height: "auto",
       selectable: true,
       longPressDelay:10,
